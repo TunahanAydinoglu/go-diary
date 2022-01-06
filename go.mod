@@ -1,4 +1,4 @@
-module 0-HelloWorld
+module 1-Echo
 
 go 1.17
 
